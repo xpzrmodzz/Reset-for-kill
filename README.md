@@ -14,5 +14,5 @@ while true do
     -- Appeler la fonction de réinitialisation
     forceResetAction()
     -- Attendre quelques secondes avant de répéter l'action (par exemple, 5 secondes)
-    wait(3.2)
+    wait(3)
 end
